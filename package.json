@@ -12,9 +12,11 @@
     "@react-three/drei": "^9.120.6",
     "@react-three/fiber": "^9.0.0-rc.1",
     "@react-three/rapier": "^1.5.0",
+    "axios": "^1.7.9",
     "leva": "^0.9.35",
     "meshline": "^3.3.1",
     "next": "15.1.4",
+    "next-sanity": "^9.8.35",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "three": "^0.172.0"

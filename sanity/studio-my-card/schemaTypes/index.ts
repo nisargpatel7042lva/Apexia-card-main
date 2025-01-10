@@ -1,1 +1,2 @@
-export const schemaTypes = []
+import swagData from "./swagData"
+export const schemaTypes = [swagData]
