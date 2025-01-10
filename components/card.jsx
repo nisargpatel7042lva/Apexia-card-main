@@ -9,6 +9,7 @@ import { MeshLineGeometry, MeshLineMaterial } from 'meshline'
 extend({ MeshLineGeometry, MeshLineMaterial })
 useGLTF.preload('/3d-objects/tag.glb')
 useTexture.preload('/3d-objects/apexia_ribbon.png')
+useTexture.preload('/3d-objects/texture.png')
 
 export default function App() {
 //   const { debug } = useControls({ debug: false })
